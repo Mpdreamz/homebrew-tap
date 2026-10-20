@@ -1,8 +1,8 @@
 # Written by yabar's release workflow from packaging/homebrew/yabar.rb in https://github.com/mpdreamz/yabar;
 # change it there, not here.
 cask "yabar" do
-  version "0.1.0"
-  sha256 "eaf68edb8b95c53ec2e36ba05925409a0ab49c41a76fa7f394ee72d46debc513"
+  version "0.2.0"
+  sha256 "65f6fdbec55a1b07c1cede12c1a993c4b66dff69153ffaca097850490ecbe657"
 
   url "https://github.com/mpdreamz/yabar/releases/download/v#{version}/Yabar-arm64.zip"
   name "Yabar"
