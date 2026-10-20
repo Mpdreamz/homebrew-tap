@@ -1,8 +1,8 @@
 # Written by undertone's release workflow from packaging/homebrew/undertone.rb in https://github.com/mpdreamz/undertone;
 # change it there, not here.
 cask "undertone" do
-  version "0.4.0"
-  sha256 "b356afb23b2e5ed6fb82b93c91a784422db9d2679000ace08fe483ad18f0fa06"
+  version "0.5.0"
+  sha256 "aab2cce9bddba3e66ff7d16b09d42cf193b19394d933cb7b52dcb45889c503e0"
 
   url "https://github.com/mpdreamz/undertone/releases/download/v#{version}/Undertone-arm64.zip"
   name "Undertone"
