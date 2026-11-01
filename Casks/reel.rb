@@ -1,8 +1,8 @@
 # Written by reel's release workflow from packaging/homebrew/reel.rb in https://github.com/mpdreamz/reel;
 # change it there, not here.
 cask "reel" do
-  version "0.4.0"
-  sha256 "9546a51ce9930fa4577b8109c61646fa9e87b196b5c7fc864b978b59a4f5e549"
+  version "0.5.0"
+  sha256 "01d184d41d31238cc65fecd07fed1dde03e4ad5fd3320a45cdf5c9bd8c5224f5"
 
   url "https://github.com/mpdreamz/reel/releases/download/v#{version}/reel-arm64.zip"
   name "reel"
